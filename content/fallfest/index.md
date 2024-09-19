@@ -1,4 +1,4 @@
----
+e---
 title: Qiskit Fall Fest 2024
 date: 2024-09-20
 
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: Qiskit_Fall-Fest_Wallpaper-06.gif
+            filename: Qiskit_Fall-Fest_Wallpaper-06.jpg
             filters:
               brightness: 0.9
           position: center
