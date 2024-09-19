@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: paper2.jpg
             filters:
               brightness: 0.7
           position: center
@@ -35,7 +35,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.png
+            filename: paper1.jpg
             filters:
               brightness: 0.5
           position: center
@@ -43,8 +43,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Register Here
+          url: https://forms.gle/NJP8fyozCWtMm1qv9
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
